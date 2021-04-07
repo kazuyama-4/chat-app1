@@ -45,6 +45,7 @@
   color: white;
 }
 
+
 .chat {
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
@@ -77,6 +78,7 @@
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
+
   overflow: scroll;
 }
 
@@ -150,4 +152,10 @@
 
 .hidden {
   display: none;
+
+}
+.form {
+  background-color: #DDDDDD;
+  height: 90px;padding: 20px 40px 0;
+
 }
